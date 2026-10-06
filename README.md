@@ -225,35 +225,6 @@ Based on the analysis, the project recommends:
 
 ---
 
-## 📸 Dashboard Preview
-
-### Overview
-
-*Add your Overview dashboard screenshot here.*
-
-```text
-![Overview Dashboard](Screenshots/overview-dashboard.png)
-```
-
-### Environment & Weather
-
-```text
-![Environment Dashboard](Screenshots/environment-weather-dashboard.png)
-```
-
-### Mobility
-
-```text
-![Mobility Dashboard](Screenshots/mobility-dashboard.png)
-```
-
-### Energy & Safety
-
-```text
-![Energy Dashboard](Screenshots/energy-safety-dashboard.png)
-```
-
----
 
 ## 🎓 Skills Demonstrated
 
