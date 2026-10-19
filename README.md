@@ -246,15 +246,6 @@ This project demonstrates practical experience in:
 
 ---
 
-## 👩‍💻 Author
-
-**Anagha Sajeev**
-
-B.Tech Computer Science Graduate
-
-Interested in **Data Analytics, Power BI, Python, SQL and Business Intelligence**.
-
----
 
 ## 🔗 Dataset Source
 
